@@ -1,13 +1,13 @@
-🏠 HomeEase – Web-based Plumbing Services Platform
+🏠 **HomeEase** – Web-based Plumbing Services Platform
 
 HomeEase is a PERN stack (PostgreSQL, Express.js, React, Node.js) web-based platform
 that connects residents with professional plumbers in Nairobi’s residential areas.
 It provides a seamless way to book plumbing services in real-time, while also 
 giving admins tools to manage the system.
 
-🚀 Features
+🚀 **Features**
 
-👤 Residents
+👤 **Residents**
 
 Register and manage profile (photo, password, account settings)
 
@@ -17,7 +17,7 @@ Rate and review plumbers after a completed booking
 
 Chat with plumbers directly for job coordination
 
-🔧 Plumbers
+🔧 **Plumbers**
 
 Register and provide service details (location, expertise)
 
@@ -29,7 +29,7 @@ View ratings and reviews from completed jobs
 
 Chat with residents
 
-🛠️ Admin
+🛠️ **Admin**
 
 Approve or reject plumber registrations
 
@@ -41,7 +41,7 @@ Access reviews for each plumber
 
 Manage completed bookings
 
-Tech Stack
+**Tech Stack**
 
 Frontend: React.js, TailwindCSS
 
