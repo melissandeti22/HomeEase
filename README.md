@@ -6,7 +6,9 @@ It provides a seamless way to book plumbing services in real-time, while also
 giving admins tools to manage the system.
 
 🚀 Features
+
 👤 Residents
+
 Register and manage profile (photo, password, account settings)
 Book plumbing services in real-time
 Rate and review plumbers after a completed booking
